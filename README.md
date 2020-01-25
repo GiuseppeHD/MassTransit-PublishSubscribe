@@ -13,4 +13,4 @@
 
 At this point you should be able to see the Message created from the Producer in the console application of Consumer.A and Consumer.B.
 
-This is a simple example of how publish and subscribe work with MassTransit. :)
+This is a simple example of how publish and subscribe approach works with MassTransit. :)
